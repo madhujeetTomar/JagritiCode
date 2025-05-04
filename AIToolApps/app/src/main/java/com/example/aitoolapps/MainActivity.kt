@@ -9,5 +9,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 g
         android.util.Log.d(TAG, "onCreate: Heloo Jagriti")
+        android.util.Log.d(TAG, "onCreate: Heloo Jagriti")
+
+        android.util.Log.d(TAG, "onCreate: Heloo Jagriti")
+
+        android.util.Log.d(TAG, "onCreate: Heloo Jagriti")
+
+        android.util.Log.d(TAG, "onCreate: Heloo Jagriti")
+
+
+
     }
 }
